@@ -1,0 +1,15 @@
+/mnt/data/Misha/Projects/csharp/CSharp3PatternMatching/CSharp3PatternMatching/bin/Debug/net6.0/CSharp3PatternMatching
+/mnt/data/Misha/Projects/csharp/CSharp3PatternMatching/CSharp3PatternMatching/bin/Debug/net6.0/CSharp3PatternMatching.deps.json
+/mnt/data/Misha/Projects/csharp/CSharp3PatternMatching/CSharp3PatternMatching/bin/Debug/net6.0/CSharp3PatternMatching.runtimeconfig.json
+/mnt/data/Misha/Projects/csharp/CSharp3PatternMatching/CSharp3PatternMatching/bin/Debug/net6.0/CSharp3PatternMatching.dll
+/mnt/data/Misha/Projects/csharp/CSharp3PatternMatching/CSharp3PatternMatching/bin/Debug/net6.0/CSharp3PatternMatching.pdb
+/mnt/data/Misha/Projects/csharp/CSharp3PatternMatching/CSharp3PatternMatching/obj/Debug/net6.0/CSharp3PatternMatching.csproj.AssemblyReference.cache
+/mnt/data/Misha/Projects/csharp/CSharp3PatternMatching/CSharp3PatternMatching/obj/Debug/net6.0/CSharp3PatternMatching.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/data/Misha/Projects/csharp/CSharp3PatternMatching/CSharp3PatternMatching/obj/Debug/net6.0/CSharp3PatternMatching.AssemblyInfoInputs.cache
+/mnt/data/Misha/Projects/csharp/CSharp3PatternMatching/CSharp3PatternMatching/obj/Debug/net6.0/CSharp3PatternMatching.AssemblyInfo.cs
+/mnt/data/Misha/Projects/csharp/CSharp3PatternMatching/CSharp3PatternMatching/obj/Debug/net6.0/CSharp3PatternMatching.csproj.CoreCompileInputs.cache
+/mnt/data/Misha/Projects/csharp/CSharp3PatternMatching/CSharp3PatternMatching/obj/Debug/net6.0/CSharp3PatternMatching.dll
+/mnt/data/Misha/Projects/csharp/CSharp3PatternMatching/CSharp3PatternMatching/obj/Debug/net6.0/refint/CSharp3PatternMatching.dll
+/mnt/data/Misha/Projects/csharp/CSharp3PatternMatching/CSharp3PatternMatching/obj/Debug/net6.0/CSharp3PatternMatching.pdb
+/mnt/data/Misha/Projects/csharp/CSharp3PatternMatching/CSharp3PatternMatching/obj/Debug/net6.0/CSharp3PatternMatching.genruntimeconfig.cache
+/mnt/data/Misha/Projects/csharp/CSharp3PatternMatching/CSharp3PatternMatching/obj/Debug/net6.0/ref/CSharp3PatternMatching.dll

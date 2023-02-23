@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp3PatternMatching", "CSharp3PatternMatching\CSharp3PatternMatching.csproj", "{717A86A6-B36B-476B-89F1-D3EB7373E5FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{717A86A6-B36B-476B-89F1-D3EB7373E5FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{717A86A6-B36B-476B-89F1-D3EB7373E5FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{717A86A6-B36B-476B-89F1-D3EB7373E5FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{717A86A6-B36B-476B-89F1-D3EB7373E5FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
